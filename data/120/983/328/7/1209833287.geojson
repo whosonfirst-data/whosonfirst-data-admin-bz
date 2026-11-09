@@ -47,7 +47,7 @@
         "wk:page":"Lucky_Strike%2C_Belize"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"6e1f01a2bce99e4ed2333a5313f28e4c",
+    "wof:geomhash":"ed1e9295cd66a0a7fe2043f87d2d8aaf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -88.31685,
     17.77922000000001
 ],
-  "geometry": {"coordinates":[-88.31685,17.77922000000001],"type":"Point"}
+  "geometry": {"coordinates":[-88.31685,17.77922],"type":"Point"}
 }

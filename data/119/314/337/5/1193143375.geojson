@@ -44,7 +44,7 @@
         "wk:page":"Indian_Church%2C_Belize"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"6425debca105f6697f54eba61a83c0a1",
+    "wof:geomhash":"70819049f8b4460f6dc929edc035c5f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -88.65744000000002,
     17.75392
 ],
-  "geometry": {"coordinates":[-88.65744000000002,17.75392],"type":"Point"}
+  "geometry": {"coordinates":[-88.65744,17.75392],"type":"Point"}
 }

@@ -44,7 +44,7 @@
         "wk:page":"Crooked_Tree%2C_Belize"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"dc1dd6fc7a36aab5118edb732209c90c",
+    "wof:geomhash":"345fa3b91a691cc56448cdefa291f6c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -88.54203000000003,
     17.77599
 ],
-  "geometry": {"coordinates":[-88.54203000000003,17.77599],"type":"Point"}
+  "geometry": {"coordinates":[-88.54203,17.77599],"type":"Point"}
 }

@@ -44,7 +44,7 @@
         "wk:page":"Corozalito"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"eee1ee04edd3f2a4ff2d5d41f5b9e779",
+    "wof:geomhash":"7600e0a3db684238bb1a9c6e790344fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -88.27395,
     17.83902999999999
 ],
-  "geometry": {"coordinates":[-88.27395,17.83902999999999],"type":"Point"}
+  "geometry": {"coordinates":[-88.27395,17.83903],"type":"Point"}
 }

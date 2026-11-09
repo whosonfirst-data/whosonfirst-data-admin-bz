@@ -47,7 +47,7 @@
         "wk:page":"Big_Creek,_Belize"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"93b1b52c9173897474118d2c3e19bb68",
+    "wof:geomhash":"795369fb6f2c6b555450f7335dfc424b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -88.40581999999998,
     16.51765
 ],
-  "geometry": {"coordinates":[-88.40581999999998,16.51765],"type":"Point"}
+  "geometry": {"coordinates":[-88.40582,16.51765],"type":"Point"}
 }

@@ -44,7 +44,7 @@
         "wk:page":"St._Margaret,_Belize"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"939e9fb4592ff835c22cd6aa9f4c2444",
+    "wof:geomhash":"e7e210195dc39f843947c2a1820d1920",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -88.61095999999998,
     17.09047
 ],
-  "geometry": {"coordinates":[-88.61095999999998,17.09047],"type":"Point"}
+  "geometry": {"coordinates":[-88.61096,17.09047],"type":"Point"}
 }

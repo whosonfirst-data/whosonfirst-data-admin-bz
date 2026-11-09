@@ -71,7 +71,7 @@
         "wk:page":"Spanish_Lookout"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"9e82909099522434d252684ce4206a3b",
+    "wof:geomhash":"d39d085e84bfc2d815ca87437e3bdabc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -96,5 +96,5 @@
     -88.98333000000002,
     17.21667
 ],
-  "geometry": {"coordinates":[-88.98333000000002,17.21667],"type":"Point"}
+  "geometry": {"coordinates":[-88.98333,17.21667],"type":"Point"}
 }

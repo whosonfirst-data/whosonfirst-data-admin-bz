@@ -69,7 +69,7 @@
         "wk:page":"Placencia"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"2155f6dd0f9895523fd144f56b153e2e",
+    "wof:geomhash":"1cad922e4407d4d18c031c706fccc932",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -96,5 +96,5 @@
     -88.36646999999998,
     16.51419
 ],
-  "geometry": {"coordinates":[-88.36646999999998,16.51419],"type":"Point"}
+  "geometry": {"coordinates":[-88.36647,16.51419],"type":"Point"}
 }

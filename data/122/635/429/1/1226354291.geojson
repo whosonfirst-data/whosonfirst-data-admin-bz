@@ -41,7 +41,7 @@
         "wk:page":"Yo_Chen"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"2433358e4178ea4ac95aa34fc601b4fa",
+    "wof:geomhash":"8136214c034b511168bb866333e31628",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -88.49774000000002,
     18.35479
 ],
-  "geometry": {"coordinates":[-88.49774000000002,18.35479],"type":"Point"}
+  "geometry": {"coordinates":[-88.49774,18.35479],"type":"Point"}
 }

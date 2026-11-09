@@ -62,7 +62,7 @@
         "wk:page":"Little_Belize"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"8066115daafc821b9454e4a5fb935f3d",
+    "wof:geomhash":"2a212a34da48e9e00d0bfb21814a7c97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -87,5 +87,5 @@
     -88.40791999999998,
     18.198
 ],
-  "geometry": {"coordinates":[-88.40791999999998,18.198],"type":"Point"}
+  "geometry": {"coordinates":[-88.40792,18.198],"type":"Point"}
 }

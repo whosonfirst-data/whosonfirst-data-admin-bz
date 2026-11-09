@@ -62,7 +62,7 @@
         "wk:page":"Trial_Farm"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"ba396dc2d5f910b31b39be347fd84b71",
+    "wof:geomhash":"f35d28bad12245d64481ca52c7107e53",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -87,5 +87,5 @@
     -88.56584000000002,
     18.10124
 ],
-  "geometry": {"coordinates":[-88.56584000000002,18.10124],"type":"Point"}
+  "geometry": {"coordinates":[-88.56584,18.10124],"type":"Point"}
 }

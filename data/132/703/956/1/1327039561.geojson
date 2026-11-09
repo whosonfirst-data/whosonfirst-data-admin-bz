@@ -44,7 +44,7 @@
         "wk:page":"Biscayne%2C_Belize"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"4d9097b31991ae7d1a6f450ecf4ec665",
+    "wof:geomhash":"44d7fac09d0caeaf8507aa60260fe500",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -88.45723000000002,
     17.71702
 ],
-  "geometry": {"coordinates":[-88.45723000000002,17.71702],"type":"Point"}
+  "geometry": {"coordinates":[-88.45723,17.71702],"type":"Point"}
 }

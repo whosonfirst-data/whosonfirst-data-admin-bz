@@ -66,7 +66,7 @@
         "wk:page":"Shipyard%2C_Belize"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"7839fbd2cd45cc6d979613d546a12c89",
+    "wof:geomhash":"fe228409bb922dde3a7813a31c993d35",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -93,5 +93,5 @@
     -88.65451999999998,
     17.89382
 ],
-  "geometry": {"coordinates":[-88.65451999999998,17.89382],"type":"Point"}
+  "geometry": {"coordinates":[-88.65452,17.89382],"type":"Point"}
 }

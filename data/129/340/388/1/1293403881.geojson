@@ -41,7 +41,7 @@
         "wk:page":"Grace_Bank"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"e301bbb57cff08b08efc17e32ede0359",
+    "wof:geomhash":"131b224e11e924ef7ce83416eeb4cc65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -88.40491,
     17.64982000000001
 ],
-  "geometry": {"coordinates":[-88.40491,17.64982000000001],"type":"Point"}
+  "geometry": {"coordinates":[-88.40491,17.64982],"type":"Point"}
 }

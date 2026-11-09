@@ -59,7 +59,7 @@
         "wk:page":"Guinea_Grass"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"29ba0fc8613c03460897ae4ec17e1f52",
+    "wof:geomhash":"198509f66826a8601eff7f918420975b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -84,5 +84,5 @@
     -88.59836999999997,
     17.96704
 ],
-  "geometry": {"coordinates":[-88.59836999999997,17.96704],"type":"Point"}
+  "geometry": {"coordinates":[-88.59837,17.96704],"type":"Point"}
 }

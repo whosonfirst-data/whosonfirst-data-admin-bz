@@ -49,7 +49,7 @@
         "wk:page":"Maskall"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"8fb9754cdb200ce469cfa1b91009c93c",
+    "wof:geomhash":"428355207f6292c3d90b50ba65c008b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -88.31174,
     17.87787999999999
 ],
-  "geometry": {"coordinates":[-88.31174,17.87787999999999],"type":"Point"}
+  "geometry": {"coordinates":[-88.31174,17.87788],"type":"Point"}
 }

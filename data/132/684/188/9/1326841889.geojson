@@ -47,7 +47,7 @@
         "wk:page":"Calcutta%2C_Belize"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"765ec785938b58f604266aa374b79c05",
+    "wof:geomhash":"11fee3effaf9ac74b6442de935c8232f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -88.43878000000002,
     18.3618
 ],
-  "geometry": {"coordinates":[-88.43878000000002,18.3618],"type":"Point"}
+  "geometry": {"coordinates":[-88.43878,18.3618],"type":"Point"}
 }

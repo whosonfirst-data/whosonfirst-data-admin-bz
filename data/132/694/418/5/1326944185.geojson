@@ -45,7 +45,7 @@
         "wk:page":"Freetown_Sibun"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"730c8f2188879ca1d733d5911311c390",
+    "wof:geomhash":"537170e0e3afc18c4043e23cac3b6379",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,5 +70,5 @@
     -88.35396999999998,
     17.42495
 ],
-  "geometry": {"coordinates":[-88.35396999999998,17.42495],"type":"Point"}
+  "geometry": {"coordinates":[-88.35397,17.42495],"type":"Point"}
 }

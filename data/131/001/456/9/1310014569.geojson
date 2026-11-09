@@ -40,7 +40,7 @@
         "gn:id":3581908
     },
     "wof:country":"BZ",
-    "wof:geomhash":"148a8d22296b2eca36e8c77bf7080d83",
+    "wof:geomhash":"cf889900379e4a5f11f6fd4b9359c7d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,5 +65,5 @@
     -88.92797,
     17.23472000000001
 ],
-  "geometry": {"coordinates":[-88.92797,17.23472000000001],"type":"Point"}
+  "geometry": {"coordinates":[-88.92797,17.23472],"type":"Point"}
 }

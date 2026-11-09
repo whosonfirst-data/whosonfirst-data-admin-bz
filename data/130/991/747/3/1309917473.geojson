@@ -47,7 +47,7 @@
         "wk:page":"Louisville%2C_Belize"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"98f66b18a6fe367b143fa5249638cc67",
+    "wof:geomhash":"569ec57fa5a86e8d67811b951b3ebf0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -88.50981999999998,
     18.31946
 ],
-  "geometry": {"coordinates":[-88.50981999999998,18.31946],"type":"Point"}
+  "geometry": {"coordinates":[-88.50982,18.31946],"type":"Point"}
 }

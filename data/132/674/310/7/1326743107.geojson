@@ -53,7 +53,7 @@
         "wk:page":"San_Jose_Succotz"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"2ef147ff060fdfd05182bb85d0f6d99a",
+    "wof:geomhash":"10573e5ebc55278bcd2052965bb9b3a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,5 +78,5 @@
     -89.13006999999998,
     17.08454
 ],
-  "geometry": {"coordinates":[-89.13006999999998,17.08454],"type":"Point"}
+  "geometry": {"coordinates":[-89.13007,17.08454],"type":"Point"}
 }

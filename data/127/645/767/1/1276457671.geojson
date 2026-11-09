@@ -44,7 +44,7 @@
         "wk:page":"Big_Falls%2C_Belize"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"9e072591f6e53f777ed9995ce5559204",
+    "wof:geomhash":"d737fd82bd2861e8781eda29b287f081",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -88.58457,
     17.49467000000001
 ],
-  "geometry": {"coordinates":[-88.58457,17.49467000000001],"type":"Point"}
+  "geometry": {"coordinates":[-88.58457,17.49467],"type":"Point"}
 }

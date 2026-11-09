@@ -51,7 +51,7 @@
         "wk:page":"Burrell_Boom"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"7b70794dbd53f61dbebfec3773d21e02",
+    "wof:geomhash":"f752a7f750c13d4ab360e45898f1ec06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,5 +76,5 @@
     -88.40527,
     17.56932999999999
 ],
-  "geometry": {"coordinates":[-88.40527,17.56932999999999],"type":"Point"}
+  "geometry": {"coordinates":[-88.40527,17.56933],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Mullins_River"
     },
     "wof:country":"BZ",
-    "wof:geomhash":"fda5fa5c2f4bb1f2f977d737b1194a0c",
+    "wof:geomhash":"1229436010f367aaf4a767e834af166d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,5 +73,5 @@
     -88.30072,
     17.10507999999999
 ],
-  "geometry": {"coordinates":[-88.30072,17.10507999999999],"type":"Point"}
+  "geometry": {"coordinates":[-88.30072,17.10508],"type":"Point"}
 }

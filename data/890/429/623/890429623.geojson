@@ -76,7 +76,7 @@
     },
     "wof:country":"BZ",
     "wof:created":1469051822,
-    "wof:geomhash":"e197f38660cbea3db08d68c099602344",
+    "wof:geomhash":"a043390943c115b6105ca4bf8aa2bfb3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -103,5 +103,5 @@
     -89.1,
     17.8
 ],
-  "geometry": {"coordinates":[-89.09999999999999,17.8],"type":"Point"}
+  "geometry": {"coordinates":[-89.1,17.8],"type":"Point"}
 }
