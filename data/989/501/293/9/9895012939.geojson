@@ -1,0 +1,73 @@
+{
+  "id": 9895012939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.41596,16.71867,-88.41596,16.71867",
+    "geom:latitude":16.71867,
+    "geom:longitude":-88.41596,
+    "gn:population":176,
+    "iso:country":"BZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13286763: name \"South Stann Creek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13286763"
+        },
+        {
+            "citation":"GeoNames populated place 13286763: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13286763"
+        },
+        {
+            "citation":"GeoNames populated place 13286763: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13286763"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669337 (Stann Creek), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632571,
+        85669337,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13286763
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"6de29ce790936fa466d60ef75527383a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":9895012939,
+            "region_id":85669337
+        }
+    ],
+    "wof:id":9895012939,
+    "wof:lastmodified":1795735111,
+    "wof:name":"South Stann Creek",
+    "wof:parent_id":85669337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.41596,
+    16.71867,
+    -88.41596,
+    16.71867
+],
+  "geometry": {"coordinates":[-88.41596,16.71867],"type":"Point"}
+}

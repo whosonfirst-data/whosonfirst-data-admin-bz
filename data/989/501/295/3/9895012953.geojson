@@ -1,0 +1,73 @@
+{
+  "id": 9895012953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.5447,16.51161,-88.5447,16.51161",
+    "geom:latitude":16.51161,
+    "geom:longitude":-88.5447,
+    "gn:population":999,
+    "iso:country":"BZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13286795: name \"San Isidro\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13286795"
+        },
+        {
+            "citation":"GeoNames populated place 13286795: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13286795"
+        },
+        {
+            "citation":"GeoNames populated place 13286795: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13286795"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669343 (Toledo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632571,
+        85669343,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13286795
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"f4bd7871a2c49b7eab76d180ef4d67ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":9895012953,
+            "region_id":85669343
+        }
+    ],
+    "wof:id":9895012953,
+    "wof:lastmodified":1795735111,
+    "wof:name":"San Isidro",
+    "wof:parent_id":85669343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.5447,
+    16.51161,
+    -88.5447,
+    16.51161
+],
+  "geometry": {"coordinates":[-88.5447,16.51161],"type":"Point"}
+}

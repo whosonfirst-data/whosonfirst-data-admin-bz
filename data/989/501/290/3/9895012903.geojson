@@ -1,0 +1,73 @@
+{
+  "id": 9895012903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.93742,16.22743,-88.93742,16.22743",
+    "geom:latitude":16.22743,
+    "geom:longitude":-88.93742,
+    "gn:population":210,
+    "iso:country":"BZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3580932: name \"The Dump\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3580932"
+        },
+        {
+            "citation":"GeoNames populated place 3580932: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3580932"
+        },
+        {
+            "citation":"GeoNames populated place 3580932: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3580932"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669343 (Toledo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632571,
+        85669343,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580932
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"76ef84815f5125531a56a9ffcd7a926b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":9895012903,
+            "region_id":85669343
+        }
+    ],
+    "wof:id":9895012903,
+    "wof:lastmodified":1795735111,
+    "wof:name":"The Dump",
+    "wof:parent_id":85669343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.93742,
+    16.22743,
+    -88.93742,
+    16.22743
+],
+  "geometry": {"coordinates":[-88.93742,16.22743],"type":"Point"}
+}
