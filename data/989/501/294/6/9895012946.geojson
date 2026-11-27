@@ -1,0 +1,73 @@
+{
+  "id": 9895012946,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.87707,16.15288,-88.87707,16.15288",
+    "geom:latitude":16.15288,
+    "geom:longitude":-88.87707,
+    "gn:population":441,
+    "iso:country":"BZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13286770: name \"Jacintoville\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13286770"
+        },
+        {
+            "citation":"GeoNames populated place 13286770: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13286770"
+        },
+        {
+            "citation":"GeoNames populated place 13286770: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13286770"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669343 (Toledo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632571,
+        85669343,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13286770
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"a34114cf2631f48a74dbb3e53d4ea9d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":9895012946,
+            "region_id":85669343
+        }
+    ],
+    "wof:id":9895012946,
+    "wof:lastmodified":1795735111,
+    "wof:name":"Jacintoville",
+    "wof:parent_id":85669343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.87707,
+    16.15288,
+    -88.87707,
+    16.15288
+],
+  "geometry": {"coordinates":[-88.87707,16.15288],"type":"Point"}
+}

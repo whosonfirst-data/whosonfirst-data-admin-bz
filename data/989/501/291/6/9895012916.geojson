@@ -1,0 +1,73 @@
+{
+  "id": 9895012916,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.44892,17.3746,-88.44892,17.3746",
+    "geom:latitude":17.3746,
+    "geom:longitude":-88.44892,
+    "gn:population":341,
+    "iso:country":"BZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13286664: name \"Gracie Rock\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13286664"
+        },
+        {
+            "citation":"GeoNames populated place 13286664: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13286664"
+        },
+        {
+            "citation":"GeoNames populated place 13286664: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13286664"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669321 (Belize), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632571,
+        85669321,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13286664
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"3c57585f74821209f7142ca04519e1d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":9895012916,
+            "region_id":85669321
+        }
+    ],
+    "wof:id":9895012916,
+    "wof:lastmodified":1795735111,
+    "wof:name":"Gracie Rock",
+    "wof:parent_id":85669321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.44892,
+    17.3746,
+    -88.44892,
+    17.3746
+],
+  "geometry": {"coordinates":[-88.44892,17.3746],"type":"Point"}
+}

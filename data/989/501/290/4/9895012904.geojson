@@ -1,0 +1,73 @@
+{
+  "id": 9895012904,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.63744,17.26091,-88.63744,17.26091",
+    "geom:latitude":17.26091,
+    "geom:longitude":-88.63744,
+    "gn:population":659,
+    "iso:country":"BZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3582081: name \"Franks Eddy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3582081"
+        },
+        {
+            "citation":"GeoNames populated place 3582081: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3582081"
+        },
+        {
+            "citation":"GeoNames populated place 3582081: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3582081"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669323 (Cayo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632571,
+        85669323,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582081
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"997eb366f1563f4026a39d1665e9b38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":9895012904,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":9895012904,
+    "wof:lastmodified":1795735111,
+    "wof:name":"Franks Eddy",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.63744,
+    17.26091,
+    -88.63744,
+    17.26091
+],
+  "geometry": {"coordinates":[-88.63744,17.26091],"type":"Point"}
+}

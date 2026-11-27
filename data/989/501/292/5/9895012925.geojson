@@ -1,0 +1,73 @@
+{
+  "id": 9895012925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.01153,17.32374,-89.01153,17.32374",
+    "geom:latitude":17.32374,
+    "geom:longitude":-89.01153,
+    "gn:population":715,
+    "iso:country":"BZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13286689: name \"Los Tambos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13286689"
+        },
+        {
+            "citation":"GeoNames populated place 13286689: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13286689"
+        },
+        {
+            "citation":"GeoNames populated place 13286689: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13286689"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669323 (Cayo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632571,
+        85669323,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13286689
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"4f975acbae5c5d00a818e141bc8bdee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":9895012925,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":9895012925,
+    "wof:lastmodified":1795735111,
+    "wof:name":"Los Tambos",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.01153,
+    17.32374,
+    -89.01153,
+    17.32374
+],
+  "geometry": {"coordinates":[-89.01153,17.32374],"type":"Point"}
+}

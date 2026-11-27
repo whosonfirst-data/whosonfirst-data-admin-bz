@@ -1,0 +1,73 @@
+{
+  "id": 9895012917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.52909,17.17063,-88.52909,17.17063",
+    "geom:latitude":17.17063,
+    "geom:longitude":-88.52909,
+    "gn:population":177,
+    "iso:country":"BZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13286665: name \"Green Hill Manatee\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13286665"
+        },
+        {
+            "citation":"GeoNames populated place 13286665: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13286665"
+        },
+        {
+            "citation":"GeoNames populated place 13286665: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13286665"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669321 (Belize), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632571,
+        85669321,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13286665
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"22640c4b5139618f2355fb56622defbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":9895012917,
+            "region_id":85669321
+        }
+    ],
+    "wof:id":9895012917,
+    "wof:lastmodified":1795735111,
+    "wof:name":"Green Hill Manatee",
+    "wof:parent_id":85669321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.52909,
+    17.17063,
+    -88.52909,
+    17.17063
+],
+  "geometry": {"coordinates":[-88.52909,17.17063],"type":"Point"}
+}

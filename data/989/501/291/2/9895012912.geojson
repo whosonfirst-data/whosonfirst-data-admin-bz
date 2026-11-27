@@ -1,0 +1,73 @@
+{
+  "id": 9895012912,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.65379,17.71849,-88.65379,17.71849",
+    "geom:latitude":17.71849,
+    "geom:longitude":-88.65379,
+    "gn:population":188,
+    "iso:country":"BZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13286650: name \"San Carlos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13286650"
+        },
+        {
+            "citation":"GeoNames populated place 13286650: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13286650"
+        },
+        {
+            "citation":"GeoNames populated place 13286650: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13286650"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669331 (Orange Walk), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632571,
+        85669331,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13286650
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"374d84e0c21a06e1af0430c1611b78b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":9895012912,
+            "region_id":85669331
+        }
+    ],
+    "wof:id":9895012912,
+    "wof:lastmodified":1795735111,
+    "wof:name":"San Carlos",
+    "wof:parent_id":85669331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.65379,
+    17.71849,
+    -88.65379,
+    17.71849
+],
+  "geometry": {"coordinates":[-88.65379,17.71849],"type":"Point"}
+}

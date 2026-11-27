@@ -1,0 +1,73 @@
+{
+  "id": 9895012932,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.94458,17.12493,-88.94458,17.12493",
+    "geom:latitude":17.12493,
+    "geom:longitude":-88.94458,
+    "gn:population":110,
+    "iso:country":"BZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13286696: name \"Upper Barton Creek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13286696"
+        },
+        {
+            "citation":"GeoNames populated place 13286696: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13286696"
+        },
+        {
+            "citation":"GeoNames populated place 13286696: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13286696"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669323 (Cayo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632571,
+        85669323,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13286696
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"233e302ad20ce12eb7f6d7e769a799e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":9895012932,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":9895012932,
+    "wof:lastmodified":1795735111,
+    "wof:name":"Upper Barton Creek",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.94458,
+    17.12493,
+    -88.94458,
+    17.12493
+],
+  "geometry": {"coordinates":[-88.94458,17.12493],"type":"Point"}
+}
